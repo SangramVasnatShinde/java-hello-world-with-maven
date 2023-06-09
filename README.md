@@ -1,4 +1,4 @@
-# Building Java Projects with Maven tool on Local
+# Building Java Projects with Maven tool on Local With Maven
 This guide walks you through using Maven to build a simple Java project.
 
 ## What you’ll build
